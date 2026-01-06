@@ -1,0 +1,14 @@
+# Видео и аудио
+*.mp4
+*.mp3
+*.mkv
+temp_reverse.mp4
+concat_list.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Окружение
+venv/
+.env
